@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🏫 Daniel Meireles</h1>
+<h1 align="center">👨‍🏫 Daniel Meireles do Rego</h1>
 <p align="center">
   <strong>Professor de TI • Mestrando em Ciência da Computação • Pesquisador em IA</strong>
 </p>
