@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="2 de mai. de 2025, 12_27_40.png" alt="Banner Daniel Meireles" style="width:100%;">
+</p>
+
 <h1 align="center">👨‍🏫 Daniel Meireles do Rego</h1>
 <p align="center">
   <strong>Professor de TI • Mestrando em Ciência da Computação • Pesquisador em IA</strong>
