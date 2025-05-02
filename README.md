@@ -69,8 +69,7 @@ Sou **Professor de Tecnologia da Informação**, com formação em **Engenharia 
 
 - 📫 **Email:** dannryu@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-meireles/)  
-- 📄 [Currículo Lattes](http://lattes.cnpq.br/4406386477726482) *(adicione seu link aqui)*  
-
+- 📄 [Currículo Lattes](http://lattes.cnpq.br/4406386477726482) 
 ---
 
 <p align="center"><i>"Ensinar é compartilhar códigos, ideias e transformar curiosidade em criação."</i></p>
