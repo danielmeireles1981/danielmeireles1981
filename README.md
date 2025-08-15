@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IA.jpg" alt="Banner Daniel Meireles" style="width:100%;">
+  <img src="IA.png" alt="Banner Daniel Meireles" style="width:100%;">
 </p>
 
 <h1 align="center">👨‍🏫 Daniel Meireles do Rego</h1>
